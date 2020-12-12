@@ -79,29 +79,30 @@ VirBrant can only be forked from this repository. Once forked, enter into the fi
 ```
 ## git download here
 
-cd VirBrant/kmer_counter
+cd VirBrant/scripts
+tar xvf kmer-counter-master.zip
+cd kmer-counter-master
 make
 ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-VirBrant works as a command line script. Once install via pip, VirBrant the command can be accessed. To get the help screen type:
+VirBrant works as a python script. Once install via pip, VirBrant the command can be accessed. To get the help screen type:
 ```
 VirBrant -h
 ```
 
 The paramters of VirBrant are:
-* -f: Kraken output file \[required]
-* -c: Seqeuncing file to parse \[optional]
-* -r: Remove viral elements flag
-* -o: Rename output files \[optional]
+* -i: Input Fasta \[required]
+* -o: Output Directory \[optional]
 
 
 ### Running VirBrant 
 
 #### VirBrant without a sequencing file and renaming the output
 ```
-VirBrant -f Kraken_Output.txt -o Viral_Sequences
+cd VirBrant
+scripts/VirBrant.py -i data/Test/Viral_contigs.fasta -o data/Test/Output
 ```
 
 
