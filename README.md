@@ -162,6 +162,5 @@ Project Link: [https://github.com/Strong-Lab/VirBrant](https://github.com/Strong
 [stars-url]: https://github.com/Strong-Lab/VirBrant/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Strong-Lab/VirBrant.svg?style=for-the-badge
 [issues-url]: https://github.com/Strong-Lab/VirBrant/issues
-[license-shield]: https://img.shields.io/github/license/Strong-Lab/VirBrant.svg?style=for-the-badge
-[license-url]: https://github.com/Strong-Lab/VirBrant/LICENSE.txt
+
 
