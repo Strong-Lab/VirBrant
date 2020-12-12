@@ -17,11 +17,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/Strong-Lab/VirBrant">
-    <img src="images/logo.jpg" alt="Logo" width="160" height="70">
+    <img src="images/logo.jpg" alt="Logo" width="400" height="100">
   </a>
-
-  <h3 align="center">VirBrant</h3>
-
   <p align="center">
     A viral identification tool using machine learning with nucleotide and protein features
     <br />
@@ -38,7 +35,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-VirBrant">About VirBrant</a>
+      <a href="#about-virbrant">About VirBrant</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
