@@ -1,0 +1,540 @@
+>k79_170 flag=1 multi=6.0000 len=242
+242
+>k79_298 flag=1 multi=10.0000 len=306
+306
+>k79_218 flag=1 multi=4.0000 len=280
+280
+>k79_378 flag=1 multi=10.0000 len=369
+369
+>k79_136 flag=1 multi=2.0000 len=302
+302
+>k79_85 flag=1 multi=3.0000 len=243
+243
+>k79_34 flag=1 multi=8.0000 len=330
+330
+>k79_119 flag=1 multi=4.0000 len=339
+339
+>k79_186 flag=1 multi=3.0000 len=352
+352
+>k79_330 flag=1 multi=6.0000 len=368
+368
+>k79_137 flag=1 multi=3.0000 len=255
+255
+>k79_154 flag=1 multi=4.0000 len=300
+300
+>k79_202 flag=1 multi=7.0000 len=666
+666
+>k79_362 flag=1 multi=11.0000 len=699
+699
+>k79_86 flag=1 multi=24.0000 len=338
+338
+>k79_220 flag=1 multi=4.0000 len=426
+426
+>k79_282 flag=1 multi=17.0000 len=769
+769
+>k79_331 flag=1 multi=14.0000 len=331
+331
+>k79_379 flag=1 multi=3.0000 len=540
+540
+>k79_68 flag=1 multi=9.0000 len=944
+944
+>k79_87 flag=1 multi=4.0000 len=272
+272
+>k79_363 flag=1 multi=8.0000 len=387
+387
+>k79_347 flag=1 multi=9.0000 len=371
+371
+>k79_332 flag=1 multi=15.0000 len=317
+317
+>k79_316 flag=1 multi=19.0000 len=360
+360
+>k79_252 flag=1 multi=5.0000 len=273
+273
+>k79_69 flag=1 multi=5.0000 len=348
+348
+>k79_234 flag=1 multi=14.0000 len=1304
+1304
+>k79_283 flag=1 multi=6.0000 len=562
+562
+>k79_348 flag=1 multi=2.0000 len=344
+344
+>k79_333 flag=1 multi=8.0000 len=322
+322
+>k79_157 flag=1 multi=57.0000 len=385
+385
+>k79_103 flag=1 multi=25.0000 len=514
+514
+>k79_349 flag=1 multi=23.0000 len=246
+246
+>k79_254 flag=1 multi=2.0000 len=286
+286
+>k79_222 flag=1 multi=5.0000 len=386
+386
+>k79_89 flag=1 multi=3.0000 len=475
+475
+>k79_235 flag=1 multi=10.0000 len=423
+423
+>k79_158 flag=1 multi=3.0000 len=311
+311
+>k79_53 flag=1 multi=34.0000 len=353
+353
+>k79_189 flag=1 multi=4.0000 len=413
+413
+>k79_285 flag=1 multi=6.0000 len=264
+264
+>k79_71 flag=1 multi=7.0000 len=287
+287
+>k79_3 flag=1 multi=7.0000 len=461
+461
+>k79_139 flag=1 multi=9.0000 len=1064
+1064
+>k79_54 flag=1 multi=6.0000 len=244
+244
+>k79_223 flag=1 multi=5.0000 len=356
+356
+>k79_190 flag=1 multi=8.0000 len=272
+272
+>k79_318 flag=1 multi=10.0000 len=784
+784
+>k79_351 flag=1 multi=5.0000 len=347
+347
+>k79_122 flag=1 multi=11.0000 len=457
+457
+>k79_336 flag=1 multi=6.0000 len=463
+463
+>k79_72 flag=1 multi=13.0000 len=428
+428
+>k79_18 flag=1 multi=6.0000 len=1026
+1026
+>k79_105 flag=1 multi=4.0000 len=347
+347
+>k79_90 flag=1 multi=8.0000 len=732
+732
+>k79_299 flag=1 multi=5.0000 len=2031
+2031
+>k79_123 flag=1 multi=11.0000 len=271
+271
+>k79_365 flag=1 multi=7.0000 len=439
+439
+>k79_236 flag=1 multi=8.0000 len=804
+804
+>k79_203 flag=1 multi=5.0000 len=1861
+1861
+>k79_267 flag=1 multi=30.1631 len=1673
+1673
+>k79_287 flag=1 multi=20.0000 len=442
+442
+>k79_140 flag=1 multi=12.0000 len=596
+596
+>k79_192 flag=1 multi=3.0000 len=309
+309
+>k79_36 flag=1 multi=5.0000 len=1778
+1778
+>k79_300 flag=1 multi=4.0000 len=323
+323
+>k79_73 flag=1 multi=17.0000 len=437
+437
+>k79_124 flag=1 multi=4.0000 len=359
+359
+>k79_141 flag=1 multi=2.0000 len=255
+255
+>k79_337 flag=1 multi=13.1807 len=588
+588
+>k79_204 flag=1 multi=21.0000 len=395
+395
+>k79_6 flag=1 multi=14.0000 len=497
+497
+>k79_338 flag=1 multi=2.0000 len=284
+284
+>k79_37 flag=1 multi=16.0000 len=444
+444
+>k79_174 flag=1 multi=11.0000 len=1042
+1042
+>k79_7 flag=1 multi=4.0000 len=290
+290
+>k79_194 flag=1 multi=6.0000 len=326
+326
+>k79_339 flag=1 multi=9.0000 len=325
+325
+>k79_205 flag=1 multi=8.0000 len=593
+593
+>k79_301 flag=1 multi=11.0000 len=731
+731
+>k79_38 flag=1 multi=5.0000 len=452
+452
+>k79_340 flag=1 multi=4.0000 len=284
+284
+>k79_206 flag=1 multi=5.0000 len=275
+275
+>k79_92 flag=1 multi=19.0000 len=427
+427
+>k79_288 flag=1 multi=6.0000 len=1127
+1127
+>k79_39 flag=1 multi=2.0000 len=247
+247
+>k79_320 flag=1 multi=35.0000 len=1186
+1186
+>k79_8 flag=1 multi=3.0000 len=575
+575
+>k79_207 flag=1 multi=7.0000 len=249
+249
+>k79_289 flag=1 multi=6.0000 len=338
+338
+>k79_321 flag=1 multi=2.0000 len=288
+288
+>k79_94 flag=1 multi=4.0000 len=271
+271
+>k79_9 flag=1 multi=7.0000 len=575
+575
+>k79_74 flag=1 multi=7.0000 len=1646
+1646
+>k79_20 flag=1 multi=6.0000 len=1819
+1819
+>k79_225 flag=1 multi=23.0000 len=318
+318
+>k79_40 flag=1 multi=9.0000 len=941
+941
+>k79_304 flag=1 multi=3.0000 len=271
+271
+>k79_381 flag=1 multi=12.0000 len=1038
+1038
+>k79_353 flag=1 multi=2.0000 len=312
+312
+>k79_290 flag=1 multi=6.0000 len=981
+981
+>k79_341 flag=1 multi=11.0000 len=1419
+1419
+>k79_270 flag=1 multi=9.0000 len=349
+349
+>k79_55 flag=1 multi=12.0000 len=3014
+3014
+>k79_126 flag=1 multi=14.0000 len=2050
+2050
+>k79_212 flag=1 multi=18.0000 len=468
+468
+>k79_305 flag=1 multi=2.0000 len=468
+468
+>k79_159 flag=1 multi=6.0000 len=3321
+3321
+>k79_75 flag=1 multi=6.0000 len=832
+832
+>k79_366 flag=1 multi=13.0000 len=2690
+2690
+>k79_197 flag=1 multi=2.0000 len=298
+298
+>k79_324 flag=1 multi=5.0000 len=510
+510
+>k79_76 flag=1 multi=3.0000 len=291
+291
+>k79_354 flag=1 multi=6.0000 len=601
+601
+>k79_325 flag=1 multi=2.0000 len=248
+248
+>k79_382 flag=1 multi=3.0000 len=656
+656
+>k79_12 flag=1 multi=4.0000 len=663
+663
+>k79_271 flag=1 multi=4.0000 len=494
+494
+>k79_367 flag=1 multi=3.0000 len=359
+359
+>k79_160 flag=1 multi=4.0000 len=476
+476
+>k79_98 flag=1 multi=3.0000 len=284
+284
+>k79_57 flag=1 multi=10.0000 len=263
+263
+>k79_383 flag=1 multi=2.0000 len=250
+250
+>k79_21 flag=1 multi=5.0000 len=1264
+1264
+>k79_13 flag=1 multi=4.0000 len=286
+286
+>k79_77 flag=1 multi=11.0000 len=344
+344
+>k79_109 flag=1 multi=10.0000 len=403
+403
+>k79_41 flag=1 multi=4.0000 len=1148
+1148
+>k79_99 flag=1 multi=7.0000 len=276
+276
+>k79_291 flag=1 multi=20.0000 len=975
+975
+>k79_22 flag=1 multi=8.0000 len=251
+251
+>k79_344 flag=1 multi=11.0000 len=391
+391
+>k79_238 flag=1 multi=8.0000 len=3000
+3000
+>k79_306 flag=1 multi=9.0000 len=871
+871
+>k79_14 flag=1 multi=4.0000 len=355
+355
+>k79_100 flag=1 multi=7.0000 len=306
+306
+>k79_345 flag=1 multi=13.0000 len=389
+389
+>k79_101 flag=1 multi=5.0000 len=255
+255
+>k79_326 flag=1 multi=5.0000 len=930
+930
+>k79_368 flag=1 multi=5.0000 len=881
+881
+>k79_128 flag=1 multi=12.0000 len=1205
+1205
+>k79_272 flag=1 multi=11.0000 len=1278
+1278
+>k79_16 flag=1 multi=10.0000 len=480
+480
+>k79_78 flag=1 multi=3.0000 len=1108
+1108
+>k79_328 flag=1 multi=6.0000 len=257
+257
+>k79_129 flag=1 multi=4.0000 len=241
+241
+>k79_23 flag=1 multi=3.0000 len=1112
+1112
+>k79_386 flag=1 multi=5.0000 len=704
+704
+>k79_79 flag=1 multi=4.0000 len=316
+316
+>k79_369 flag=1 multi=10.0000 len=734
+734
+>k79_226 flag=1 multi=54.0000 len=2543
+2543
+>k79_293 flag=1 multi=15.0000 len=1142
+1142
+>k79_273 flag=1 multi=4.0000 len=474
+474
+>k79_130 flag=1 multi=7.5693 len=346
+346
+>k79_387 flag=1 multi=6.0000 len=304
+304
+>k79_161 flag=1 multi=12.0000 len=1717
+1717
+>k79_370 flag=1 multi=3.0000 len=280
+280
+>k79_294 flag=1 multi=13.0000 len=248
+248
+>k79_110 flag=1 multi=6.0000 len=1689
+1689
+>k79_308 flag=1 multi=3.0000 len=393
+393
+>k79_329 flag=1 multi=5.0000 len=753
+753
+>k79_200 flag=1 multi=18.0000 len=580
+580
+>k79_131 flag=1 multi=5.0000 len=497
+497
+>k79_162 flag=1 multi=5.0000 len=435
+435
+>k79_201 flag=1 multi=6.0000 len=252
+252
+>k79_274 flag=1 multi=78.0000 len=690
+690
+>k79_132 flag=1 multi=7.0000 len=242
+242
+>k79_163 flag=1 multi=2.0000 len=258
+258
+>k79_81 flag=1 multi=5.0000 len=633
+633
+>k79_310 flag=1 multi=4.0000 len=290
+290
+>k79_213 flag=1 multi=5.0000 len=2829
+2829
+>k79_371 flag=1 multi=3.0000 len=822
+822
+>k79_275 flag=1 multi=3.0000 len=343
+343
+>k79_175 flag=1 multi=8.0000 len=4898
+4898
+>k79_83 flag=1 multi=4.0000 len=252
+252
+>k79_214 flag=1 multi=4.0000 len=406
+406
+>k79_26 flag=1 multi=11.0000 len=1022
+1022
+>k79_372 flag=1 multi=6.0000 len=458
+458
+>k79_111 flag=1 multi=8.0000 len=1394
+1394
+>k79_27 flag=1 multi=2.0000 len=258
+258
+>k79_58 flag=1 multi=9.0000 len=3172
+3172
+>k79_355 flag=1 multi=6.0000 len=3416
+3416
+>k79_112 flag=1 multi=12.0000 len=377
+377
+>k79_59 flag=1 multi=2.0000 len=246
+246
+>k79_177 flag=1 multi=5.0000 len=362
+362
+>k79_84 flag=1 multi=10.0000 len=1022
+1022
+>k79_28 flag=1 multi=3.0000 len=701
+701
+>k79_257 flag=1 multi=8.0000 len=6573
+6573
+>k79_44 flag=1 multi=7.0000 len=1823
+1823
+>k79_313 flag=1 multi=5.0000 len=430
+430
+>k79_373 flag=1 multi=4.0000 len=1191
+1191
+>k79_133 flag=1 multi=24.6187 len=1844
+1844
+>k79_45 flag=1 multi=20.0000 len=302
+302
+>k79_30 flag=1 multi=4.0000 len=483
+483
+>k79_134 flag=1 multi=5.0000 len=299
+299
+>k79_46 flag=1 multi=2.0000 len=266
+266
+>k79_179 flag=1 multi=3.0000 len=346
+346
+>k79_374 flag=1 multi=17.0000 len=506
+506
+>k79_165 flag=1 multi=18.0000 len=2078
+2078
+>k79_113 flag=1 multi=4.0000 len=1480
+1480
+>k79_48 flag=1 multi=2.0000 len=240
+240
+>k79_375 flag=1 multi=4.0000 len=516
+516
+>k79_135 flag=1 multi=3.0000 len=778
+778
+>k79_143 flag=1 multi=5.0000 len=3978
+3978
+>k79_50 flag=1 multi=2.0000 len=356
+356
+>k79_31 flag=1 multi=10.0000 len=1037
+1037
+>k79_388 flag=1 multi=6.0000 len=3904
+3904
+>k79_167 flag=1 multi=5.0000 len=628
+628
+>k79_258 flag=1 multi=7.0000 len=1537
+1537
+>k79_144 flag=1 multi=3.0000 len=415
+415
+>k79_168 flag=1 multi=8.0000 len=268
+268
+>k79_239 flag=1 multi=22.0000 len=5651
+5651
+>k79_146 flag=1 multi=4.0000 len=253
+253
+>k79_182 flag=1 multi=7.0000 len=887
+887
+>k79_276 flag=1 multi=7.0000 len=3387
+3387
+>k79_32 flag=1 multi=5.0000 len=882
+882
+>k79_215 flag=1 multi=17.0000 len=3443
+3443
+>k79_277 flag=1 multi=12.0000 len=368
+368
+>k79_278 flag=1 multi=4.0000 len=347
+347
+>k79_183 flag=1 multi=8.1870 len=892
+892
+>k79_295 flag=1 multi=15.0000 len=4950
+4950
+>k79_229 flag=1 multi=3.0000 len=282
+282
+>k79_149 flag=1 multi=4.0000 len=571
+571
+>k79_297 flag=1 multi=4.0000 len=237
+237
+>k79_184 flag=1 multi=4.0000 len=702
+702
+>k79_150 flag=1 multi=10.0000 len=489
+489
+>k79_33 flag=1 multi=31.0000 len=1342
+1342
+>k79_231 flag=1 multi=4.0000 len=237
+237
+>k79_216 flag=1 multi=20.0000 len=1375
+1375
+>k79_151 flag=1 multi=3.0000 len=280
+280
+>k79_61 flag=1 multi=8.0000 len=887
+887
+>k79_232 flag=1 multi=2.0000 len=243
+243
+>k79_152 flag=1 multi=10.0000 len=249
+249
+>k79_185 flag=1 multi=5.0000 len=794
+794
+>k79_240 flag=1 multi=5.0000 len=2790
+2790
+>k79_217 flag=1 multi=11.0000 len=1202
+1202
+>k79_115 flag=1 multi=3.0000 len=269
+269
+>k79_242 flag=1 multi=8.9335 len=635
+635
+>k79_243 flag=1 multi=10.0000 len=253
+253
+>k79_116 flag=1 multi=11.0000 len=835
+835
+>k79_245 flag=1 multi=3.0000 len=308
+308
+>k79_117 flag=1 multi=5.0000 len=837
+837
+>k79_62 flag=1 multi=5.0000 len=2516
+2516
+>k79_246 flag=1 multi=3.0000 len=504
+504
+>k79_247 flag=1 multi=14.0000 len=401
+401
+>k79_260 flag=1 multi=22.0000 len=4217
+4217
+>k79_356 flag=1 multi=6.0000 len=7086
+7086
+>k79_261 flag=1 multi=7.0000 len=262
+262
+>k79_357 flag=1 multi=3.0000 len=254
+254
+>k79_376 flag=1 multi=6.0000 len=5805
+5805
+>k79_118 flag=1 multi=4.0000 len=1140
+1140
+>k79_63 flag=1 multi=12.0000 len=1395
+1395
+>k79_248 flag=1 multi=17.0000 len=1114
+1114
+>k79_64 flag=1 multi=3.0000 len=352
+352
+>k79_249 flag=1 multi=10.0000 len=273
+273
+>k79_65 flag=1 multi=4.0000 len=445
+445
+>k79_66 flag=1 multi=4.0000 len=314
+314
+>k79_67 flag=1 multi=2.0000 len=257
+257
+>k79_263 flag=1 multi=5.0000 len=628
+628
+>k79_279 flag=1 multi=11.0000 len=6465
+6465
+>k79_264 flag=1 multi=5.0000 len=886
+886
+>k79_280 flag=1 multi=10.0000 len=465
+465
+>k79_358 flag=1 multi=8.0000 len=4973
+4973
+>k79_359 flag=1 multi=2.0000 len=267
+267
+>k79_361 flag=1 multi=3.0000 len=313
+313
+>k79_389 flag=1 multi=11.0000 len=14595
+14595
+>k79_390 flag=1 multi=5.0000 len=700
+700
+>k79_391 flag=1 multi=37.0000 len=18923
+18923
+>k79_393 flag=1 multi=957.0000 len=31957
+31957
